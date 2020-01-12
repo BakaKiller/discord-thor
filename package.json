@@ -1,0 +1,29 @@
+{
+  "name": "discord-thor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakaKiller/discord-thor.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ban",
+    "thor"
+  ],
+  "author": "biquet·te",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/BakaKiller/discord-thor/issues"
+  },
+  "homepage": "https://github.com/BakaKiller/discord-thor#readme",
+  "dependencies": {
+    "@discordjs/uws": "^11.149.1",
+    "discord.js": "^11.5.1"
+  }
+}
